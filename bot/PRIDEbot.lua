@@ -227,17 +227,20 @@ function create_config( )
     "admin",
     "plugins"
     },
-    sudo_users = {198828890},--Sudo users
+    sudo_users = {164985762,122774063},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V 1
-    Advanced Bot Base On Seed
+    about_text = [[PRIDE PLUS V1
+    Forked On MEGA SATAN
     
-    @WilSoN_DeVeLoPeR[DeVeLoPeR] 
+    Admin:
+    @King_KENTam_bokon_namooset 😶
     
-    #Open_Source 
-    [@W_SaTaN_W] [Https://github.com/DeterGent-Legion/MeGa_SaTaN]
+    Develped By Mr Ah S & SBSS Team
     
+    #Open Source
+    Check This
+    https://github.com/MRAHS/PRIDEplus
 ]],
     help_text_realm = [[
 Realm Commands:
