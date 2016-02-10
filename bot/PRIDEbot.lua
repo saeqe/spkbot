@@ -225,7 +225,8 @@ function create_config( )
     "all",
     "leave_ban",
     "admin",
-    "plugins"
+    "plugins",
+    "tagall"
     },
     sudo_users = {164985762,122774063},--Sudo users
     disabled_channels = {},
