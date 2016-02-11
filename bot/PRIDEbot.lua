@@ -228,7 +228,7 @@ function create_config( )
     "plugins",
     "tagall"
     },
-    sudo_users = {164985762,122774063},--Sudo users
+    sudo_users = {147525451},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[PRIDE PLUS V1
