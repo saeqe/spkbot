@@ -231,17 +231,11 @@ function create_config( )
     sudo_users = {147525451},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[PRIDE PLUS V1
-    Forked On MEGA SATAN
+    about_text = [[spk_bot
     
     Admin:
-    @King_KENTam_bokon_namooset 😶
+    @spark051 😶
     
-    Develped By Mr Ah S & SBSS Team
-    
-    #Open Source
-    Check This
-    https://github.com/MRAHS/PRIDEplus
 ]],
     help_text_realm = [[
 Realm Commands:
